@@ -1,0 +1,28 @@
+#app {
+  padding: 20px;
+}
+.comment-form {
+  width: 500px;
+}
+.comment-form .input-group {
+  margin: 10px 0; 
+}
+.pressy {
+  padding: 18px;
+  cursor: context-menu;
+  font.size: 18px;
+  border-style: solid;
+  border-radius: 0%;
+  margin: 10px;
+  padding-color: rgb(0, 200, 0);
+}
+.pressy2 {
+  padding-right: 12px;
+}
+.body {
+  padding: : 60px;
+  font-family: sans-serif, mono;
+}
+.slavoj {
+  padding: 20px;
+}
